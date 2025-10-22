@@ -27,7 +27,7 @@ You can play the game online here:
 
 ## Files
 
-- `indexx.html` — main HTML file
+- `index.html` — main HTML file
 - `style.css` — CSS styles
 - `script.js` — game logic and animations
 
